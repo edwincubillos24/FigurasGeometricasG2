@@ -12,4 +12,5 @@
     <string name="diagonalMenor">Ingrese el valor de la diagonal menor</string>
     <string name="calcular_area">Calcular Area</string>
     <string name="resultado">Resultado</string>
+    <string name="arearombolabel">AreaRombo</string>
 </resources>
