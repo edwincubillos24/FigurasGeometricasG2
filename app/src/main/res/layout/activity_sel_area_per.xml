@@ -7,4 +7,20 @@
         android:layout_height="match_parent"
         tools:context=".SelAreaPerActivity">
 
+    <Button
+            android:text="@string/area"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintEnd_toEndOf="parent"
+            android:id="@+id/bnArea" app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toTopOf="@+id/bnPerimetro"
+            android:onClick="onButtonClicked"/>
+    <Button
+            android:text="@string/perimetro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintEnd_toEndOf="parent"
+            android:id="@+id/bnPerimetro" app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/bnArea"
+            android:onClick="onButtonClicked"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
