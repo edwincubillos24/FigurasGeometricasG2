@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/IdAplicacion"
+            android:text="@string/PerimeTri"
+            android:textSize="40sp"
+            android:textAlignment="center"
+    />
+
+    <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/vala"
+            android:hint="@string/valora"
+            android:textAlignment="center"
+            android:inputType="number"
+
+    />
+
+    <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/valb"
+            android:hint="@string/valorb"
+            android:textAlignment="center"
+            android:inputType="number"
+
+    />
+
+    <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/valc"
+            android:hint="@string/valorc"
+            android:textAlignment="center"
+            android:inputType="number"
+
+    />
+
+    <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/BtnCalc"
+            android:text="@string/Calcular"
+    />
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/result"
+            android:text="@string/ValorPeri"
+            android:textSize="40sp"
+            android:textAlignment="center"
+    />
+
+
+</LinearLayout>

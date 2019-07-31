@@ -7,4 +7,12 @@
     <string name="rombo">Rombo</string>
     <string name="pentagono">Pentágono</string>
     <string name="hexagono">Hexágono</string>
+    <string name="PerimeTri">Perimetro Triángulo</string>
+    <string name="valores">Ingrese magnitud de cada uno de los lados</string>
+    <string name="ValorPeri">Resultado Perimetro</string>
+    <string name="valora">Ingrese valor lado a</string>
+    <string name="valorb">Ingrese valor lado b</string>
+    <string name="valorc">Ingrese valor lado c</string>
+    <string name="Calcular">Calcular Perimetro</string>
+    <string name="perimetroTriangulo">PerimetroTriangulo</string>
 </resources>
