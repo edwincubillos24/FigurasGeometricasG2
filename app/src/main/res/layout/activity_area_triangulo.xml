@@ -16,7 +16,7 @@
     <TextView android:layout_width="wrap_content"
               android:layout_height="wrap_content"
               android:id="@+id/title"
-              android:textSize="50sp"
+              android:textSize="40sp"
               android:text="@string/atriangulo"
               android:padding="20dp"
     />
@@ -39,7 +39,7 @@
                   android:layout_weight="1"
                   android:id="@+id/etbtriangulo"
                   android:textSize="20sp"
-
+                  android:inputType="number"
         />
 
     </LinearLayout>
@@ -64,7 +64,7 @@
                   android:layout_weight="1"
                   android:id="@+id/ethtriangulo"
                   android:textSize="20sp"
-
+                  android:inputType="number"
         />
 
     </LinearLayout>
