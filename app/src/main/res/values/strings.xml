@@ -12,4 +12,7 @@
     <string name="tvResultAreaCirculo"/>
     <string name="btCalcularAreaCirculo">Calcular</string>
     <string name="areacirculo">Area del circulo</string>
+    <string name="area">Area</string>
+    <string name="perimetro">Perimetro</string>
+    <string name="seleccion">Selección</string>
 </resources>
