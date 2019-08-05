@@ -7,10 +7,15 @@
     <string name="rombo">Rombo</string>
     <string name="pentagono">Pentágono</string>
     <string name="hexagono">Hexágono</string>
+    <string name="area_del_rombo">Area del Rombo</string>
+    <string name="diagonalMayor">Ingresa el valor de la diagonal mayor</string>
+    <string name="diagonalMenor">Ingrese el valor de la diagonal menor</string>
+    <string name="calcular_area">Calcular Area</string>
+    <string name="resultado">Resultado</string>
+    <string name="arearombolabel">AreaRombo</string>
     <string name="ingrese_lado_a">Ingrese lado a</string>
     <string name="ingrese_lado_b">Ingrese lado b</string>
     <string name="calcular_perimetro">Calcular perimetro</string>
-    <string name="resultado">Resultado</string>
     <string name="AreaPentagono"/>
     <string name="bBotonCalcular">Calcular Area</string>
     <string name="tvPerimetroPenta">Perimetro</string>
@@ -31,4 +36,5 @@
     <string name="btriangulo">Base</string>
     <string name="calcular">Calcular Area</string>
     <string name="areaTriangulo">AreaTriangulo</string>
+    <string name="titlesquarearea">Area del cuadrado</string>
 </resources>
