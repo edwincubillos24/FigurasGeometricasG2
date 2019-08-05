@@ -12,6 +12,8 @@
         <activity android:name=".SelAreaPerActivity"
                   android:label="@string/seleccion">
         </activity>
+        <activity android:name=".SquareAreaActivity" android:label="@string/titlesquarearea">
+        </activity>
         <activity android:name=".areCirculoActivity"
         android:label="@string/areacirculo">
         </activity>
