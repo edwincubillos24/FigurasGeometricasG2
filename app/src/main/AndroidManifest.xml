@@ -13,7 +13,10 @@
                   android:label="@string/perimetro">
 
         </activity>
+        <activity android:name=".PerimetroRectanguloActivity"
+                  android:label="@string/perimetro">
 
+        </activity>
 
 
         <activity android:name=".AreaRomboActivity"
