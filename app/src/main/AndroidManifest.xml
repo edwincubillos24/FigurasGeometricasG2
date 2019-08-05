@@ -11,6 +11,9 @@
             android:theme="@style/AppTheme">
         <activity android:name=".PerimetroRectanguloActivity">
         </activity>
+        <activity android:name=".Pentagono_AreaActivity"
+                  android:label="@string/SelAreaPentagono">
+        </activity>
         <activity android:name=".SelAreaPerActivity"
                   android:label="@string/seleccion">
         </activity>
