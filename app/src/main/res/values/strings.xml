@@ -50,5 +50,7 @@
     <string name="btriangulo">Base</string>
     <string name="calcular">Calcular Area</string>
     <string name="areaTriangulo">AreaTriangulo</string>
-
+    <string name="altura">Altura</string>
+    <string name="base">Base</string>
+    <string name="calcular">Calcular</string>
 </resources>
