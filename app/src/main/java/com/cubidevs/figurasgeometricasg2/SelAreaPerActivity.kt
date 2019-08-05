@@ -20,7 +20,8 @@ class SelAreaPerActivity : AppCompatActivity() {
             if (view.getId()==R.id.bnArea){
                 when (data){
                     0 -> {
-
+                        var intent = Intent(this,AreaTrianguloActivity::class.java)
+                        startActivity(intent)
                     }
                     1 -> {
                         var intent = Intent(this,SquareAreaActivity::class.java)
@@ -57,12 +58,17 @@ class SelAreaPerActivity : AppCompatActivity() {
                         startActivity(intentSquarePerimeter)
                     }
                     2 -> {
+                        var intent = Intent(this,PerimetroRectanguloActivity::class.java)
+                        startActivity(intent)
 
                     }
                     3 -> {
 
                     }
                     4 -> {
+
+                        var intent = Intent(this,PerimetroRomboActivity::class.java)
+                        startActivity(intent)
 
                     }
                     5 -> {

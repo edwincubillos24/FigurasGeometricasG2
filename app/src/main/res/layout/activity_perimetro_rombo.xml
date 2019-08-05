@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".PerimetroRomboActivity"
+        android:gravity="center"
+        android:layout_margin="15dp">
+
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="horizontal">
+
+        <TextView android:layout_width="0dp"
+                  android:layout_height="wrap_content"
+                  android:layout_weight="2"
+                  android:id="@+id/tvLado"
+                  android:textSize="30sp"
+                  android:text="@string/valor1"
+        />
+
+        <EditText android:layout_width="0dp"
+                  android:layout_height="wrap_content"
+                  android:layout_weight="1"
+                  android:id="@+id/etValorA"
+                  android:inputType="number"
+
+        />
+
+    </LinearLayout>
+
+    <Button android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btCalcular"
+            android:layout_marginTop="40dp"
+            android:text="@string/calcular_perimetro"
+            android:textSize="20sp"
+            />
+
+    <TextView android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:id="@+id/tvResultado"
+              android:textSize="30sp"
+              android:layout_marginTop="20dp"
+              android:textAlignment="center"
+              android:hint="@string/_0m"/>
+
+</LinearLayout>
