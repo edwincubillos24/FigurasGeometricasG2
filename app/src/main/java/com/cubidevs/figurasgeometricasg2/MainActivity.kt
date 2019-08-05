@@ -31,6 +31,7 @@ class MainActivity : AppCompatActivity() {
                 }
                 R.id.bnRombo -> {
                     intent.putExtra("figura",4)
+
                 }
                 R.id.bnPentagono -> {
                     intent.putExtra("figura",5)
