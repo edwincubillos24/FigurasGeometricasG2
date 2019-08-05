@@ -8,7 +8,7 @@ import android.content.Intent
 import kotlinx.android.synthetic.main.activity_square_perimeter.*
 import java.lang.Exception
 
-class squarePerimeterActivity : AppCompatActivity() {
+class SquarePerimeterActivity : AppCompatActivity() {
     //var reseivedData=intent.extras
     private var r=0F
 
@@ -21,7 +21,7 @@ class squarePerimeterActivity : AppCompatActivity() {
         if (view is Button){
 
             try {
-                var a=et_square_side_ego2509.text.toString().toFloat()
+                val a=et_square_side_ego2509.text.toString().toFloat()
                 r=4*a
                 tx_outp_square_perim_ego2509.text=r.toString()
             }
