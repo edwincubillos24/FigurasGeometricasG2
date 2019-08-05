@@ -7,4 +7,8 @@
     <string name="rombo">Rombo</string>
     <string name="pentagono">Pentágono</string>
     <string name="hexagono">Hexágono</string>
+    <string name="valor1">Lado A del rombo en metros</string>
+    <string name="calcular_perimetro">CALCULAR PERÍMETRO</string>
+    <string name="_0m">0m</string>
+    <string name="perimetro">PerimetroRombo</string>
 </resources>
