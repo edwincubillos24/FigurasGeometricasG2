@@ -23,7 +23,8 @@ class SelAreaPerActivity : AppCompatActivity() {
 
                     }
                     1 -> {
-
+                        var intent = Intent(this,SquareAreaActivity::class.java)
+                        startActivity(intent)
                     }
                     2 -> {
 

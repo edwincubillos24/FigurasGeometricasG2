@@ -16,6 +16,8 @@
                   android:label="@string/areaTriangulo">
 
         </activity>
+        <activity android:name=".SquareAreaActivity" android:label="@string/titlesquarearea">
+        </activity>
         <activity android:name=".areCirculoActivity"
         android:label="@string/areacirculo">
         </activity>
