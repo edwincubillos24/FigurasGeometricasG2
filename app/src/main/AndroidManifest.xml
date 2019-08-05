@@ -14,8 +14,6 @@
 
         </activity>
 
-
-
         <activity android:name=".AreaRomboActivity"
                   android:label="@string/arearombolabel">
         </activity>
