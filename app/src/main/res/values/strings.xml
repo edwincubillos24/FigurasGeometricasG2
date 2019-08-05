@@ -7,6 +7,10 @@
     <string name="rombo">Rombo</string>
     <string name="pentagono">Pentágono</string>
     <string name="hexagono">Hexágono</string>
+    <string name="PerPen">Perímetro del pentágono de lado L</string>
+    <string name="InL">Ingrese L: </string>
+    <string name="Calcular">Calcular</string>
+    <string name="unitcm">cm</string>
     <string name="valor1">Lado A del rombo en metros</string>
     <string name="calcular_perimetro">CALCULAR PERÍMETRO</string>
     <string name="_0m">0m</string>
