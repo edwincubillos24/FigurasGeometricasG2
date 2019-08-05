@@ -7,6 +7,13 @@
     <string name="rombo">Rombo</string>
     <string name="pentagono">Pentágono</string>
     <string name="hexagono">Hexágono</string>
+    <string name="AreaPentagono"/>
+    <string name="bBotonCalcular">Calcular Area</string>
+    <string name="tvPerimetroPenta">Perimetro</string>
+    <string name="IngresePerimetro">Ingrese el perimetro</string>
+    <string name="tvApotema">Apotema</string>
+    <string name="tvApotemahint">Ingrese el Apotema</string>
+    <string name="SelAreaPentagono">SelAreaPentagono</string>Ingrese area del pentagono
     <string name="tvRadioAreaCirculo">Radio</string>
     <string name="hintRadioAreaCirculo">Ingrese el radio</string>
     <string name="tvResultAreaCirculo"/>
