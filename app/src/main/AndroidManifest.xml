@@ -14,8 +14,8 @@
 
         </activity>
 
-        <activity android:name=".PerimetroRectanguloActivity">
-            android:theme="@style/AppTheme" tools:ignore="GoogleAppIndexingWarning">
+
+
         <activity android:name=".AreaRomboActivity"
                   android:label="@string/arearombolabel">
         </activity>
