@@ -34,7 +34,8 @@ class SelAreaPerActivity : AppCompatActivity() {
                         startActivity(intent)
                     }
                     4 -> {
-
+                        var intent = Intent(this,AreaRomboActivity::class.java)
+                        startActivity(intent)
                     }
                     5 -> {
 
