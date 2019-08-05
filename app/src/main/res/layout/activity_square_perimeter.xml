@@ -19,12 +19,14 @@
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:id="@+id/et_square_side_ego2509"
+            android:inputType="number"
     />
     <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:id="@+id/pb_solve_ego2509"
+            android:onClick="solveSquarePerimeter"
             android:text="@string/tx_perim_ego2509"
             android:background="@color/colorPrimaryDark"
     />

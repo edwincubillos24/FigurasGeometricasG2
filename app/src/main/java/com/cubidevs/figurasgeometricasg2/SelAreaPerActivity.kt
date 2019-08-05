@@ -1,12 +1,13 @@
 package com.cubidevs.figurasgeometricasg2
 
+import android.content.Intent
 import android.os.Bundle
 import android.view.View
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
 
 class SelAreaPerActivity : AppCompatActivity() {
-
+    private var intentSquarePerimeter = Intent(this,squarePerimeterActivity::class.java)
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_sel_area_per)
@@ -14,15 +15,14 @@ class SelAreaPerActivity : AppCompatActivity() {
 
     fun onButtonClicked(view: View) {
         var figurarecibida = intent.extras
-        var data = figurarecibida.getInt("figura")
+        var data = figurarecibida!!.getInt("figura")
         if (view is Button) {
             if (view.getId()==R.id.bnArea){
                 when (data){
                     0 -> {
-
                     }
                     1 -> {
-
+                        startActivity(intentSquarePerimeter)
                     }
                     2 -> {
 

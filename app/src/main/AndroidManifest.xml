@@ -15,9 +15,6 @@
                 android:label="@string/square_perim_tag"
                 >
         </activity>
-            android:theme="@style/AppTheme">
-        <activity android:name=".squarePerimeterActivity">
-        </activity>
         <activity android:name=".SelAreaPerActivity"
                   android:label="@string/seleccion">
         </activity>
