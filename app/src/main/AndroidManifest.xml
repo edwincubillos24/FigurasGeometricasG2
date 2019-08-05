@@ -16,6 +16,9 @@
                   android:label="@string/areaTriangulo">
 
         </activity>
+        <activity android:name=".areCirculoActivity"
+        android:label="@string/areacirculo">
+        </activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
