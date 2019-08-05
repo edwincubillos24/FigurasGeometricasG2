@@ -14,4 +14,7 @@
     <string name="tvApotema">Apotema</string>
     <string name="tvApotemahint">Ingrese el Apotema</string>
     <string name="SelAreaPentagono">SelAreaPentagono</string>Ingrese area del pentagono
+    <string name="area">Area</string>
+    <string name="perimetro">Perimetro</string>
+    <string name="seleccion">Selección</string>
 </resources>
