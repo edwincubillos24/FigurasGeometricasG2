@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
           package="com.cubidevs.figurasgeometricasg2">
 
     <application
@@ -13,8 +13,15 @@
                   android:label="@string/arearombolabel">
         </activity>
             android:theme="@style/AppTheme">
+        <activity android:name=".Pentagono_AreaActivity"
+                  android:label="@string/SelAreaPentagono">
+        </activity>
         <activity android:name=".SelAreaPerActivity"
                   android:label="@string/seleccion">
+        </activity>
+        <activity android:name=".AreaTrianguloActivity"
+                  android:label="@string/areaTriangulo">
+
         </activity>
         <activity android:name=".SquareAreaActivity" android:label="@string/titlesquarearea">
         </activity>
