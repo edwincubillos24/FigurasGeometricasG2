@@ -10,4 +10,7 @@
     <string name="input_msg_ego2509">Please input the value of one side of the square:</string>
     <string name="tx_perim_ego2509">Solve for Perimeter</string>
     <string name="square_perim_tag">Square Perimeter</string>
+    <string name="area">Area</string>
+    <string name="perimetro">Perimetro</string>
+    <string name="seleccion">Selección</string>
 </resources>
