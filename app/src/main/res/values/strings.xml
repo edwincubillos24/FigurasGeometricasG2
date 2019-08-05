@@ -7,6 +7,9 @@
     <string name="rombo">Rombo</string>
     <string name="pentagono">Pentágono</string>
     <string name="hexagono">Hexágono</string>
+    <string name="input_msg_ego2509">Please input the value of one side of the square:</string>
+    <string name="tx_perim_ego2509">Solve for Perimeter</string>
+    <string name="square_perim_tag">Square Perimeter</string>
     <string name="PerPen">Perímetro del pentágono de lado L</string>
     <string name="InL">Ingrese L: </string>
     <string name="Calcular">Calcular</string>
