@@ -17,6 +17,12 @@
         <activity android:name=".PerimetroRomboActivity"
                   android:label="@string/perimetro">
         </activity>
+      
+        <activity android:name=".PerimetroRectanguloActivity"
+                  android:label="@string/perimetro">
+
+        </activity>
+  
         <activity android:name=".AreaRomboActivity"
                   android:label="@string/arearombolabel">
         </activity>

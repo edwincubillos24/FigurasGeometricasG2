@@ -15,9 +15,7 @@
     <string name="Calcular">Calcular</string>
     <string name="unitcm">cm</string>
     <string name="valor1">Lado A del rombo en metros</string>
-    <string name="calcular_perimetro">CALCULAR PERÍMETRO</string>
     <string name="_0m">0m</string>
-    <string name="perimetro">PerimetroRombo</string>
     <string name="area_del_rombo">Area del Rombo</string>
     <string name="diagonalMayor">Ingresa el valor de la diagonal mayor</string>
     <string name="diagonalMenor">Ingrese el valor de la diagonal menor</string>
@@ -52,9 +50,5 @@
     <string name="btriangulo">Base</string>
     <string name="calcular">Calcular Area</string>
     <string name="areaTriangulo">AreaTriangulo</string>
-    <string name="asidehint">introducir lado</string>
-    <string name="square_side_a">lado</string>
-    <string name="calculatesquarea">Calcular Area</string>
-    <string name="resultareasquare">Resultado :</string>
-    <string name="titlesquarearea">Area de cuadrado</string>
+
 </resources>
