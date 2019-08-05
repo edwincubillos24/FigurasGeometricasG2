@@ -7,4 +7,7 @@
     <string name="rombo">Rombo</string>
     <string name="pentagono">Pentágono</string>
     <string name="hexagono">Hexágono</string>
+    <string name="altura">Altura</string>
+    <string name="base">Base</string>
+    <string name="calcular">Calcular</string>
 </resources>
