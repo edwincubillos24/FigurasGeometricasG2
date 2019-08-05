@@ -30,7 +30,8 @@ class SelAreaPerActivity : AppCompatActivity() {
 
                     }
                     3 -> {
-
+                        var intent = Intent(this,areCirculoActivity::class.java)
+                        startActivity(intent)
                     }
                     4 -> {
 
