@@ -66,6 +66,9 @@ class SelAreaPerActivity : AppCompatActivity() {
                     }
                     4 -> {
 
+                        var intent = Intent(this,PerimetroRomboActivity::class.java)
+                        startActivity(intent)
+
                     }
                     5 -> {
 
