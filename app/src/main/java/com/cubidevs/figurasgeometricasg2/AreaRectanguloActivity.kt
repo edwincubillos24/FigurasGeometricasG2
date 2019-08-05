@@ -15,7 +15,7 @@ class AreaRectanguloActivity : AppCompatActivity() {
             val altura = etaltura.text.toString().toInt()
             val area = base * altura
             tvarea.text = area.toString()
-
+//
 
         }
 
