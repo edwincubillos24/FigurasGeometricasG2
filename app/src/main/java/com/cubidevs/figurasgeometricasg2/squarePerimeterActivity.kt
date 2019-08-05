@@ -6,6 +6,7 @@ import android.view.View
 import android.widget.Button
 import android.content.Intent
 import kotlinx.android.synthetic.main.activity_square_perimeter.*
+import java.lang.Exception
 
 class squarePerimeterActivity : AppCompatActivity() {
     //var reseivedData=intent.extras
@@ -18,9 +19,16 @@ class squarePerimeterActivity : AppCompatActivity() {
 
     fun solveSquarePerimeter(view: View){
         if (view is Button){
-            var a=et_square_side_ego2509.text.toString().toFloat()
-            r=4*a
-            tx_outp_square_perim_ego2509.text=r.toString()
+
+            try {
+                var a=et_square_side_ego2509.text.toString().toFloat()
+                r=4*a
+                tx_outp_square_perim_ego2509.text=r.toString()
+            }
+            catch (e:Exception){
+
+            }
+
         }
     }
 
