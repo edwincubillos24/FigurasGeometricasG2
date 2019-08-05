@@ -11,6 +11,11 @@
     <string name="calcular_perimetro">CALCULAR PERÍMETRO</string>
     <string name="_0m">0m</string>
     <string name="perimetro">PerimetroRombo</string>
+    <string name="tvRadioAreaCirculo">Radio</string>
+    <string name="hintRadioAreaCirculo">Ingrese el radio</string>
+    <string name="tvResultAreaCirculo"/>
+    <string name="btCalcularAreaCirculo">Calcular</string>
+    <string name="areacirculo">Area del circulo</string>
     <string name="area">Area</string>
     <string name="perimetro">Perimetro</string>
     <string name="seleccion">Selección</string>
