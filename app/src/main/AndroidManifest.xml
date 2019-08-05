@@ -11,6 +11,14 @@
             android:theme="@style/AppTheme">
         <activity android:name=".PerimetroRectanguloActivity">
         </activity>
+        <activity android:name=".SelAreaPerActivity"
+                  android:label="@string/seleccion">
+        </activity>
+        <activity android:name=".SquareAreaActivity" android:label="@string/titlesquarearea">
+        </activity>
+        <activity android:name=".areCirculoActivity"
+        android:label="@string/areacirculo">
+        </activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>

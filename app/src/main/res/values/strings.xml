@@ -11,4 +11,17 @@
     <string name="ingrese_lado_b">Ingrese lado b</string>
     <string name="calcular_perimetro">Calcular perimetro</string>
     <string name="resultado">Resultado</string>
+    <string name="tvRadioAreaCirculo">Radio</string>
+    <string name="hintRadioAreaCirculo">Ingrese el radio</string>
+    <string name="tvResultAreaCirculo"/>
+    <string name="btCalcularAreaCirculo">Calcular</string>
+    <string name="areacirculo">Area del circulo</string>
+    <string name="area">Area</string>
+    <string name="perimetro">Perimetro</string>
+    <string name="seleccion">Selección</string>
+    <string name="square_side_a">lado</string>
+    <string name="asidehint">introducir lado</string>
+    <string name="calculatesquarea">Calcular Area</string>
+    <string name="resultareasquare">Resultado :</string>
+    <string name="titlesquarearea">Area de cuadrado</string>
 </resources>
