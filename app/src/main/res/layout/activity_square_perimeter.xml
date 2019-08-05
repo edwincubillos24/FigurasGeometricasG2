@@ -5,6 +5,35 @@
         xmlns:app="http://schemas.android.com/apk/res-auto"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".squarePerimeterActivity">
+        tools:context=".squarePerimeterActivity"
+        android:padding="30dp"
+        android:orientation="vertical"
+        android:background="@color/colorAccent"
+        >
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="@string/input_msg_ego2509"
+    />
+    <EditText
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/et_square_side_ego2509"
+    />
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:id="@+id/pb_solve_ego2509"
+            android:text="@string/tx_perim_ego2509"
+            android:background="@color/colorPrimaryDark"
+    />
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:id="@+id/tx_outp_square_perim_ego2509"
+            android:textSize="22pt"
+            android:textAlignment="center"
+    />
 
 </LinearLayout>
