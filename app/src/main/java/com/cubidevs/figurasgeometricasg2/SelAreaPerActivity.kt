@@ -37,6 +37,8 @@ class SelAreaPerActivity : AppCompatActivity() {
 
                     }
                     5 -> {
+                        var intent = Intent(this,Pentagono_AreaActivity::class.java)
+                        startActivity(intent)
 
                     }
                     6 -> {
