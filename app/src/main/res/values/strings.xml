@@ -7,6 +7,11 @@
     <string name="rombo">Rombo</string>
     <string name="pentagono">Pentágono</string>
     <string name="hexagono">Hexágono</string>
+    <string name="tvRadioAreaCirculo">Radio</string>
+    <string name="hintRadioAreaCirculo">Ingrese el radio</string>
+    <string name="tvResultAreaCirculo"/>
+    <string name="btCalcularAreaCirculo">Calcular</string>
+    <string name="areacirculo">Area del circulo</string>
     <string name="area">Area</string>
     <string name="perimetro">Perimetro</string>
     <string name="seleccion">Selección</string>
