@@ -20,6 +20,8 @@
                   android:label="@string/arearombolabel">
         </activity>
             android:theme="@style/AppTheme">
+        <activity android:name=".PerimetroPentegonoActivity">
+        </activity>
 
         <activity android:name=".Pentagono_AreaActivity"
                   android:label="@string/SelAreaPentagono">
