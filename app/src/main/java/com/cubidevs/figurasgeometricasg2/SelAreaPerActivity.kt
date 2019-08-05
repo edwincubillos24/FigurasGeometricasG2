@@ -53,6 +53,8 @@ class SelAreaPerActivity : AppCompatActivity() {
 
                     }
                     2 -> {
+                        var intent = Intent(this,PerimetroRectanguloActivity::class.java)
+                        startActivity(intent)
 
                     }
                     3 -> {
