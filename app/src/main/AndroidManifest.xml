@@ -14,11 +14,17 @@
 
         </activity>
 
+        <activity android:name=".PerimetroRectanguloActivity">
+        </activity>
         <activity android:name=".Pentagono_AreaActivity"
                   android:label="@string/SelAreaPentagono">
         </activity>
         <activity android:name=".SelAreaPerActivity"
                   android:label="@string/seleccion">
+        </activity>
+        <activity android:name=".AreaTrianguloActivity"
+                  android:label="@string/areaTriangulo">
+
         </activity>
         <activity android:name=".SquareAreaActivity" android:label="@string/titlesquarearea">
         </activity>

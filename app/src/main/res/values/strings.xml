@@ -11,6 +11,10 @@
     <string name="calcular_perimetro">CALCULAR PERÍMETRO</string>
     <string name="_0m">0m</string>
     <string name="perimetro">PerimetroRombo</string>
+    <string name="ingrese_lado_a">Ingrese lado a</string>
+    <string name="ingrese_lado_b">Ingrese lado b</string>
+    <string name="calcular_perimetro">Calcular perimetro</string>
+    <string name="resultado">Resultado</string>
     <string name="AreaPentagono"/>
     <string name="bBotonCalcular">Calcular Area</string>
     <string name="tvPerimetroPenta">Perimetro</string>
