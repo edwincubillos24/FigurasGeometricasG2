@@ -1,5 +1,6 @@
 package com.cubidevs.figurasgeometricasg2
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
@@ -28,7 +29,7 @@ class MainActivity : AppCompatActivity() {
 
                 }
                 R.id.bnRombo -> {
-
+                    
                 }
                 R.id.bnPentagono -> {
 
