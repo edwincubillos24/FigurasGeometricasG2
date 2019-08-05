@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          xmlns:tools="http://schemas.android.com/tools" package="com.cubidevs.figurasgeometricasg2">
+          package="com.cubidevs.figurasgeometricasg2">
 
     <application
             android:allowBackup="true"
@@ -11,6 +11,15 @@
             android:theme="@style/AppTheme" tools:ignore="GoogleAppIndexingWarning">
         <activity android:name=".AreaRomboActivity"
                   android:label="@string/arearombolabel">
+        </activity>
+            android:theme="@style/AppTheme">
+        <activity android:name=".SelAreaPerActivity"
+                  android:label="@string/seleccion">
+        </activity>
+        <activity android:name=".SquareAreaActivity" android:label="@string/titlesquarearea">
+        </activity>
+        <activity android:name=".areCirculoActivity"
+        android:label="@string/areacirculo">
         </activity>
         <activity android:name=".MainActivity">
             <intent-filter>
