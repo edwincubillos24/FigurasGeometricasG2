@@ -11,6 +11,13 @@
     <string name="calcular_perimetro">CALCULAR PERÍMETRO</string>
     <string name="_0m">0m</string>
     <string name="perimetro">PerimetroRombo</string>
+    <string name="AreaPentagono"/>
+    <string name="bBotonCalcular">Calcular Area</string>
+    <string name="tvPerimetroPenta">Perimetro</string>
+    <string name="IngresePerimetro">Ingrese el perimetro</string>
+    <string name="tvApotema">Apotema</string>
+    <string name="tvApotemahint">Ingrese el Apotema</string>
+    <string name="SelAreaPentagono">SelAreaPentagono</string>Ingrese area del pentagono
     <string name="tvRadioAreaCirculo">Radio</string>
     <string name="hintRadioAreaCirculo">Ingrese el radio</string>
     <string name="tvResultAreaCirculo"/>
@@ -19,4 +26,9 @@
     <string name="area">Area</string>
     <string name="perimetro">Perimetro</string>
     <string name="seleccion">Selección</string>
+    <string name="square_side_a">lado</string>
+    <string name="asidehint">introducir lado</string>
+    <string name="calculatesquarea">Calcular Area</string>
+    <string name="resultareasquare">Resultado :</string>
+    <string name="titlesquarearea">Area de cuadrado</string>
 </resources>
