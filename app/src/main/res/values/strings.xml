@@ -7,6 +7,9 @@
     <string name="rombo">Rombo</string>
     <string name="pentagono">Pentágono</string>
     <string name="hexagono">Hexágono</string>
+    <string name="altura">Altura</string>
+    <string name="base">Base</string>
+    <string name="calcular">Calcular</string>
     <string name="input_msg_ego2509">Please input the value of one side of the square:</string>
     <string name="tx_perim_ego2509">Solve for Perimeter</string>
     <string name="square_perim_tag">Square Perimeter</string>
@@ -48,7 +51,6 @@
     <string name="atriangulo">Area Triangulo</string>
     <string name="htriangulo">Altura</string>
     <string name="btriangulo">Base</string>
-    <string name="calcular">Calcular Area</string>
     <string name="areaTriangulo">AreaTriangulo</string>
     <string name="altura">Altura</string>
     <string name="base">Base</string>
